@@ -49,7 +49,11 @@ Result is shown immediately without page lag
 
 Updates heading text dynamically using JavaScript
 
-💻 Clean and responsive UI
+💻 Responsive UI
+
+Clean layout
+
+Works well on desktop, tablet, and mobile screens
 
 🚀 Beginner-friendly and easy to understand code
 
