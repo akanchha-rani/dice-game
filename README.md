@@ -43,7 +43,11 @@ Player 2 wins 🏆
 
 Draw 🤝
 
-🧠 Simple game logic (win/lose/draw based on dice outcome)
+🧠 Instant Result Display
+
+Result is shown immediately without page lag
+
+Updates heading text dynamically using JavaScript
 
 💻 Clean and responsive UI
 
