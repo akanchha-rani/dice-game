@@ -33,3 +33,15 @@ dice-game/
 ├── style.css            # Styling
 ├── script.js            # Game logic
 └── README.md            # Project documentation
+
+💡 Learning Outcomes
+
+Understanding random number generation in JavaScript
+
+DOM selection and manipulation
+
+Handling browser events
+
+Structuring a small frontend project
+
+Writing clean and readable JavaScript code
