@@ -55,7 +55,13 @@ Clean layout
 
 Works well on desktop, tablet, and mobile screens
 
-🚀 Beginner-friendly and easy to understand code
+🚀 Beginner-Friendly
+
+Simple folder structure
+
+Clean, readable JavaScript
+
+Easy to extend with new features
 
 
 ## 🛠️ Tech Stack
