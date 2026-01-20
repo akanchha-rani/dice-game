@@ -16,3 +16,11 @@ The game simulates rolling dice and displays the result dynamically in the brows
 💻 Clean and responsive UI
 
 🚀 Beginner-friendly and easy to understand code
+
+🛠️ Tech Stack
+
+HTML5 – Structure of the game
+
+CSS3 – Styling and layout
+
+JavaScript (ES6) – Game logic and DOM manipulation
