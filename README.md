@@ -45,3 +45,15 @@ Handling browser events
 Structuring a small frontend project
 
 Writing clean and readable JavaScript code
+
+🧪 Future Improvements
+
+Add a Roll Dice button instead of auto-refresh
+
+Maintain player scores
+
+Add sound effects 🎵
+
+Convert into a React version
+
+Make it multiplayer with turns
