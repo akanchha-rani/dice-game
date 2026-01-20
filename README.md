@@ -19,7 +19,13 @@ On a button click (if implemented)
 
 ## 📌 Features
 
-🎯 Random dice roll generation (1–6)
+🎯 Random Dice Roll
+
+Uses JavaScript’s Math.random() function
+
+Generates a random number between 1 and 6
+
+Simulates a real dice roll
 
 🎲 Visual dice representation using images
 
