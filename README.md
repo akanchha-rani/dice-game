@@ -33,7 +33,15 @@ Dice images (dice1.png to dice6.png) update dynamically
 
 Makes the game visually intuitive and engaging
 
-⚡ Instant result display on page load or button click
+⚡ Game Logic
+
+Compares both dice values:
+
+Player 1 wins 🏆
+
+Player 2 wins 🏆
+
+Draw 🤝
 
 🧠 Simple game logic (win/lose/draw based on dice outcome)
 
