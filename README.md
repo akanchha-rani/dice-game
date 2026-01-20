@@ -3,6 +3,7 @@
 A simple and interactive Dice Game built using HTML, CSS, and JavaScript.
 The game simulates rolling dice and displays the result dynamically in the browser. It is designed to demonstrate basic JavaScript logic, DOM manipulation, and event handling.
 
+
 ## 📌 Features
 
 🎯 Random dice roll generation (1–6)
@@ -17,6 +18,7 @@ The game simulates rolling dice and displays the result dynamically in the brows
 
 🚀 Beginner-friendly and easy to understand code
 
+
 ## 🛠️ Tech Stack
 
 HTML5 – Structure of the game
@@ -25,15 +27,23 @@ CSS3 – Styling and layout
 
 JavaScript (ES6) – Game logic and DOM manipulation
 
+
 ## 📂 Project Structure
 
 dice-game/
+
 │
+
 ├── images/              # Dice images (dice1.png to dice6.png)
+
 ├── index.html           # Main HTML file
+
 ├── style.css            # Styling
+
 ├── script.js            # Game logic
+
 └── README.md            # Project documentation
+
 
 ## 💡 Learning Outcomes
 
@@ -46,6 +56,7 @@ Handling browser events
 Structuring a small frontend project
 
 Writing clean and readable JavaScript code
+
 
 ## 🧪 Future Improvements
 
