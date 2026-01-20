@@ -24,3 +24,12 @@ HTML5 – Structure of the game
 CSS3 – Styling and layout
 
 JavaScript (ES6) – Game logic and DOM manipulation
+
+📂 Project Structure
+dice-game/
+│
+├── images/              # Dice images (dice1.png to dice6.png)
+├── index.html           # Main HTML file
+├── style.css            # Styling
+├── script.js            # Game logic
+└── README.md            # Project documentation
