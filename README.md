@@ -92,15 +92,19 @@ dice-game/
 
 ## 💡 Learning Outcomes
 
-Understanding random number generation in JavaScript
+✔ Random number generation in JavaScript
 
-DOM selection and manipulation
+✔ Selecting and modifying DOM elements
 
-Handling browser events
+✔ Handling page events (load/click)
 
-Structuring a small frontend project
+✔ Dynamic image updates
 
-Writing clean and readable JavaScript code
+✔ Writing clean and readable JS code
+
+✔ Structuring a small frontend project
+
+✔ Understanding basic game logic
 
 
 ## 🧪 Future Improvements
