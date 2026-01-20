@@ -27,7 +27,11 @@ Generates a random number between 1 and 6
 
 Simulates a real dice roll
 
-🎲 Visual dice representation using images
+🎲 Visual Dice Representation
+
+Dice images (dice1.png to dice6.png) update dynamically
+
+Makes the game visually intuitive and engaging
 
 ⚡ Instant result display on page load or button click
 
