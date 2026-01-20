@@ -109,12 +109,16 @@ dice-game/
 
 ## 🧪 Future Improvements
 
-Add a Roll Dice button instead of auto-refresh
+🔹 Add a Roll Dice button
 
-Maintain player scores
+🔹 Maintain player scores
 
-Add sound effects 🎵
+🔹 Add sound effects 🎵
 
-Convert into a React version
+🔹 Add dice rolling animation
 
-Make it multiplayer with turns
+🔹 Convert to React.js version
+
+🔹 Make it multiplayer with turns
+
+🔹 Store scores using localStorage
