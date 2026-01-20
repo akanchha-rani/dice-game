@@ -5,6 +5,17 @@ The game simulates rolling dice for two players and dynamically displays the win
 
 This project is ideal for beginners to understand JavaScript fundamentals, DOM manipulation, and event-driven programming in a fun way.
 
+## 📖 Project Overview
+
+The Dice Game randomly generates numbers between 1 and 6 for two players.
+Each number corresponds to a dice image. The player with the higher number wins, and the result is displayed instantly on the screen.
+
+The game logic runs:
+
+Automatically on page refresh OR
+
+On a button click (if implemented)
+
 
 ## 📌 Features
 
